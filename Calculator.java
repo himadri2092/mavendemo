@@ -17,7 +17,7 @@ public class Calculator implements ICalculator {
 
 	public int divison(int a, int b) throws Exception {
 		if (b == 0) {
-			throw new Exception("Divider can't be zero.try something else");
+			throw new Exception("Divider can't be zero.try something else which will not throw exception");
 		}
 
 		return a / b;
