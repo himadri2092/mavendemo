@@ -31,6 +31,10 @@ public class Calculator implements ICalculator {
 		}
                 return result;
 		return result;
+return result;
+return result;
+return result;
+
                
 	}
 }
