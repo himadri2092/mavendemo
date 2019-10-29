@@ -29,6 +29,9 @@ public class Calculator implements ICalculator {
 		if (a == b) {
 			result = true;
 			System.out.println("value is true");
+			System.out.println("value is true");
+			System.out.println("value is true");
+			System.out.println("value is true");
 		}
 
 		return result;
