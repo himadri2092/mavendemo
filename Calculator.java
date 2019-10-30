@@ -34,6 +34,9 @@ public class Calculator implements ICalculator {
 			System.out.println("value is true");
 			System.out.println("hello.github");
 			System.out.println("hello.github");
+			System.out.println("hello. welcome to github");
+			System.out.println("hello. welcome to github");
+		        System.out.println("hello. welcome to github");
 		}
 
 		return result;
